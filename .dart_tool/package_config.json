@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/_flutterfire_internals-1.0.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/async-2.10.0",
       "packageUri": "lib/",
@@ -38,6 +44,42 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/firebase_core-2.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-4.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/firebase_core_web-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_messaging",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/firebase_messaging-14.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_messaging_platform_interface",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/firebase_messaging_platform_interface-4.2.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_messaging_web",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/firebase_messaging_web-3.2.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/szymongesicki/Downloads/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -50,8 +92,26 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_local_notifications",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/flutter_local_notifications-8.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_local_notifications_platform_interface",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/flutter_local_notifications_platform_interface-4.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/szymongesicki/Downloads/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/szymongesicki/Downloads/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -90,6 +150,18 @@
       "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/path-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/platform-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "sky_engine",
@@ -134,6 +206,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "timezone",
+      "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/timezone-0.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/szymongesicki/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -146,7 +224,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-03-17T09:35:32.879478Z",
+  "generated": "2023-03-17T10:17:52.105379Z",
   "generator": "pub",
   "generatorVersion": "2.19.0"
 }
